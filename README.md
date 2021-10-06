@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @CodeeCode
 - 👀 I’m interested in Machine Learning approaches and smart home applications 
 - 🌱 I’m currently learning automated event log reparing with machine learning
 
